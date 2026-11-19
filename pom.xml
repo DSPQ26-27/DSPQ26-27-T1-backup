@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://apache.org http://apache.org">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.ejemplo</groupId>
-    <artifactId>hola-mundo</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>hello-world</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
