@@ -1,7 +1,11 @@
 package com.ejemplo;
 
 public class App {
+    public static String getGreeting() {
+        return "¡Hola, Mundo!";
+    }
+
     public static void main(String[] args) {
-        System.out.println("¡Hola, Mundo 2!");
+        System.out.println(getGreeting());
     }
 }
